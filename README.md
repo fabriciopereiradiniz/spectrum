@@ -1,4 +1,4 @@
-# Spectrum
+#🎥 Spectrum
 Spectrum is a Python application based on PyQt5 and MoviePy libraries that allows users to efficiently process videos by removing silent segments and saving the result to a new video file. This tool is especially useful for video editors who want to automate the removal of silent parts in their videos.
 
 ## Features
@@ -25,7 +25,7 @@ pip install PyQt5 moviepy pydub
 
 ## Usage
 1. Clone this repository to your local machine.
-2. Run the main.py script.
+2. Run the `main.py` script.
 3. Use the graphical interface to perform the following actions:
 4. Select the input video file.
 - Choose the output location and format.
