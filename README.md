@@ -21,6 +21,7 @@ You can install these packages using pip:
 
 ```shell
 pip install PyQt5 moviepy pydub
+```
 
 ## Usage
 1.Clone this repository to your local machine.
