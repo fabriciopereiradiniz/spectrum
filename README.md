@@ -31,3 +31,10 @@ pip install PyQt5 moviepy pydub
 - Choose the output location and format.
 - Click the "Start Processing" button to begin the video processing.
 - The progress bar will indicate the processing status, and a success message will be displayed upon completion.
+
+## Future development
+
+- Syncronize your video and other audio before processing it.
+- New close button
+- Bug fix in the window
+- Interface enhancements in general
