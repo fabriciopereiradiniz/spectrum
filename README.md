@@ -24,13 +24,13 @@ pip install PyQt5 moviepy pydub
 ```
 
 ## Usage
-1.Clone this repository to your local machine.
+1. Clone this repository to your local machine.
 
-2.Run the VideoProcessorApp.py script.
+2. Run the VideoProcessorApp.py script.
 
-3.Use the graphical interface to perform the following actions:
+3. Use the graphical interface to perform the following actions:
 
-4.Select the input video file.
+4. Select the input video file.
 
 - Choose the output location and format.
 - Click the "Start Processing" button to begin the video processing.
